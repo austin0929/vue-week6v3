@@ -1,0 +1,1 @@
+import{N as n}from"./NavBar-CfpZsk7C.js";import{_ as r,c as s,a as e,b as c,F as _,o as p,r as o}from"./index-DwjhUn82.js";const i={components:{NavBar:n}},m={class:"container"};function d(l,f,u,v,B,N){const t=o("nav-bar"),a=o("router-view");return p(),s(_,null,[e(t),c("div",m,[e(a)])],64)}const w=r(i,[["render",d]]);export{w as default};
